@@ -1,1 +1,1 @@
-# coding-courses
+# Coding Courses
